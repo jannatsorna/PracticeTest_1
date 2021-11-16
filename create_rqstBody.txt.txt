@@ -4,8 +4,8 @@
   "totalprice": 100000,
   "depositpaid": true,
   "bookingdates": {
-    "checkin": "2013-02-23",
-    "checkout": "2014-10-23"
+    "checkin": "2021-11-07",
+    "checkout": "2021-11-07"
   },
   "additionalneeds": "Breakfast"
 }
